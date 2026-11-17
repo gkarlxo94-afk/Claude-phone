@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "kenney_interface_sounds/back_001",
+    "name": "back_001",
+    "file": "sounds/builtin/kenney_interface_sounds/back_001.wav",
+    "duration": 0.068,
+    "category": "전환",
+    "tags": [
+      "back"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/back_002",
+    "name": "back_002",
+    "file": "sounds/builtin/kenney_interface_sounds/back_002.wav",
+    "duration": 0.091,
+    "category": "전환",
+    "tags": [
+      "back"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/back_003",
+    "name": "back_003",
+    "file": "sounds/builtin/kenney_interface_sounds/back_003.wav",
+    "duration": 0.094,
+    "category": "전환",
+    "tags": [
+      "back"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/back_004",
+    "name": "back_004",
+    "file": "sounds/builtin/kenney_interface_sounds/back_004.wav",
+    "duration": 0.094,
+    "category": "전환",
+    "tags": [
+      "back"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/bong_001",
+    "name": "bong_001",
+    "file": "sounds/builtin/kenney_interface_sounds/bong_001.wav",
+    "duration": 0.132,
+    "category": "강조",
+    "tags": [
+      "bong"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/click_001",
+    "name": "click_001",
+    "file": "sounds/builtin/kenney_interface_sounds/click_001.wav",
+    "duration": 0.115,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/click_002",
+    "name": "click_002",
+    "file": "sounds/builtin/kenney_interface_sounds/click_002.wav",
+    "duration": 0.012,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/click_003",
+    "name": "click_003",
+    "file": "sounds/builtin/kenney_interface_sounds/click_003.wav",
+    "duration": 0.019,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/click_004",
+    "name": "click_004",
+    "file": "sounds/builtin/kenney_interface_sounds/click_004.wav",
+    "duration": 0.022,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/click_005",
+    "name": "click_005",
+    "file": "sounds/builtin/kenney_interface_sounds/click_005.wav",
+    "duration": 0.019,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/close_001",
+    "name": "close_001",
+    "file": "sounds/builtin/kenney_interface_sounds/close_001.wav",
+    "duration": 0.148,
+    "category": "전환",
+    "tags": [
+      "close"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/close_002",
+    "name": "close_002",
+    "file": "sounds/builtin/kenney_interface_sounds/close_002.wav",
+    "duration": 0.327,
+    "category": "전환",
+    "tags": [
+      "close"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/close_003",
+    "name": "close_003",
+    "file": "sounds/builtin/kenney_interface_sounds/close_003.wav",
+    "duration": 0.327,
+    "category": "전환",
+    "tags": [
+      "close"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/close_004",
+    "name": "close_004",
+    "file": "sounds/builtin/kenney_interface_sounds/close_004.wav",
+    "duration": 0.335,
+    "category": "전환",
+    "tags": [
+      "close"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/confirmation_001",
+    "name": "confirmation_001",
+    "file": "sounds/builtin/kenney_interface_sounds/confirmation_001.wav",
+    "duration": 0.295,
+    "category": "강조",
+    "tags": [
+      "confirmation"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/confirmation_002",
+    "name": "confirmation_002",
+    "file": "sounds/builtin/kenney_interface_sounds/confirmation_002.wav",
+    "duration": 0.562,
+    "category": "강조",
+    "tags": [
+      "confirmation"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/confirmation_003",
+    "name": "confirmation_003",
+    "file": "sounds/builtin/kenney_interface_sounds/confirmation_003.wav",
+    "duration": 0.324,
+    "category": "강조",
+    "tags": [
+      "confirmation"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/confirmation_004",
+    "name": "confirmation_004",
+    "file": "sounds/builtin/kenney_interface_sounds/confirmation_004.wav",
+    "duration": 0.501,
+    "category": "강조",
+    "tags": [
+      "confirmation"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/drop_001",
+    "name": "drop_001",
+    "file": "sounds/builtin/kenney_interface_sounds/drop_001.wav",
+    "duration": 0.132,
+    "category": "전환",
+    "tags": [
+      "drop"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/drop_002",
+    "name": "drop_002",
+    "file": "sounds/builtin/kenney_interface_sounds/drop_002.wav",
+    "duration": 0.202,
+    "category": "전환",
+    "tags": [
+      "drop"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/drop_003",
+    "name": "drop_003",
+    "file": "sounds/builtin/kenney_interface_sounds/drop_003.wav",
+    "duration": 0.199,
+    "category": "전환",
+    "tags": [
+      "drop"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/drop_004",
+    "name": "drop_004",
+    "file": "sounds/builtin/kenney_interface_sounds/drop_004.wav",
+    "duration": 0.295,
+    "category": "전환",
+    "tags": [
+      "drop"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_001",
+    "name": "error_001",
+    "file": "sounds/builtin/kenney_interface_sounds/error_001.wav",
+    "duration": 0.173,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_002",
+    "name": "error_002",
+    "file": "sounds/builtin/kenney_interface_sounds/error_002.wav",
+    "duration": 0.165,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_003",
+    "name": "error_003",
+    "file": "sounds/builtin/kenney_interface_sounds/error_003.wav",
+    "duration": 0.556,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_004",
+    "name": "error_004",
+    "file": "sounds/builtin/kenney_interface_sounds/error_004.wav",
+    "duration": 0.104,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_005",
+    "name": "error_005",
+    "file": "sounds/builtin/kenney_interface_sounds/error_005.wav",
+    "duration": 0.518,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_006",
+    "name": "error_006",
+    "file": "sounds/builtin/kenney_interface_sounds/error_006.wav",
+    "duration": 0.521,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_007",
+    "name": "error_007",
+    "file": "sounds/builtin/kenney_interface_sounds/error_007.wav",
+    "duration": 0.205,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/error_008",
+    "name": "error_008",
+    "file": "sounds/builtin/kenney_interface_sounds/error_008.wav",
+    "duration": 0.139,
+    "category": "반응",
+    "tags": [
+      "error"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glass_001",
+    "name": "glass_001",
+    "file": "sounds/builtin/kenney_interface_sounds/glass_001.wav",
+    "duration": 0.292,
+    "category": "강조",
+    "tags": [
+      "glass"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glass_002",
+    "name": "glass_002",
+    "file": "sounds/builtin/kenney_interface_sounds/glass_002.wav",
+    "duration": 0.129,
+    "category": "강조",
+    "tags": [
+      "glass"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glass_003",
+    "name": "glass_003",
+    "file": "sounds/builtin/kenney_interface_sounds/glass_003.wav",
+    "duration": 0.126,
+    "category": "강조",
+    "tags": [
+      "glass"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glass_004",
+    "name": "glass_004",
+    "file": "sounds/builtin/kenney_interface_sounds/glass_004.wav",
+    "duration": 0.713,
+    "category": "강조",
+    "tags": [
+      "glass"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glass_005",
+    "name": "glass_005",
+    "file": "sounds/builtin/kenney_interface_sounds/glass_005.wav",
+    "duration": 0.132,
+    "category": "강조",
+    "tags": [
+      "glass"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glass_006",
+    "name": "glass_006",
+    "file": "sounds/builtin/kenney_interface_sounds/glass_006.wav",
+    "duration": 0.132,
+    "category": "강조",
+    "tags": [
+      "glass"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glitch_001",
+    "name": "glitch_001",
+    "file": "sounds/builtin/kenney_interface_sounds/glitch_001.wav",
+    "duration": 0.025,
+    "category": "분위기",
+    "tags": [
+      "glitch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glitch_002",
+    "name": "glitch_002",
+    "file": "sounds/builtin/kenney_interface_sounds/glitch_002.wav",
+    "duration": 0.036,
+    "category": "분위기",
+    "tags": [
+      "glitch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glitch_003",
+    "name": "glitch_003",
+    "file": "sounds/builtin/kenney_interface_sounds/glitch_003.wav",
+    "duration": 0.012,
+    "category": "분위기",
+    "tags": [
+      "glitch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/glitch_004",
+    "name": "glitch_004",
+    "file": "sounds/builtin/kenney_interface_sounds/glitch_004.wav",
+    "duration": 0.028,
+    "category": "분위기",
+    "tags": [
+      "glitch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_001",
+    "name": "maximize_001",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_001.wav",
+    "duration": 0.261,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_002",
+    "name": "maximize_002",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_002.wav",
+    "duration": 0.258,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_003",
+    "name": "maximize_003",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_003.wav",
+    "duration": 0.212,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_004",
+    "name": "maximize_004",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_004.wav",
+    "duration": 0.428,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_005",
+    "name": "maximize_005",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_005.wav",
+    "duration": 0.528,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_006",
+    "name": "maximize_006",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_006.wav",
+    "duration": 0.387,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_007",
+    "name": "maximize_007",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_007.wav",
+    "duration": 0.193,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_008",
+    "name": "maximize_008",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_008.wav",
+    "duration": 0.245,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/maximize_009",
+    "name": "maximize_009",
+    "file": "sounds/builtin/kenney_interface_sounds/maximize_009.wav",
+    "duration": 0.228,
+    "category": "전환",
+    "tags": [
+      "maximize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_001",
+    "name": "minimize_001",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_001.wav",
+    "duration": 0.271,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_002",
+    "name": "minimize_002",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_002.wav",
+    "duration": 0.258,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_003",
+    "name": "minimize_003",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_003.wav",
+    "duration": 0.222,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_004",
+    "name": "minimize_004",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_004.wav",
+    "duration": 0.431,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_005",
+    "name": "minimize_005",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_005.wav",
+    "duration": 0.547,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_006",
+    "name": "minimize_006",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_006.wav",
+    "duration": 0.38,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_007",
+    "name": "minimize_007",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_007.wav",
+    "duration": 0.186,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_008",
+    "name": "minimize_008",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_008.wav",
+    "duration": 0.245,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/minimize_009",
+    "name": "minimize_009",
+    "file": "sounds/builtin/kenney_interface_sounds/minimize_009.wav",
+    "duration": 0.242,
+    "category": "전환",
+    "tags": [
+      "minimize"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/open_001",
+    "name": "open_001",
+    "file": "sounds/builtin/kenney_interface_sounds/open_001.wav",
+    "duration": 0.148,
+    "category": "전환",
+    "tags": [
+      "open"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/open_002",
+    "name": "open_002",
+    "file": "sounds/builtin/kenney_interface_sounds/open_002.wav",
+    "duration": 0.316,
+    "category": "전환",
+    "tags": [
+      "open"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/open_003",
+    "name": "open_003",
+    "file": "sounds/builtin/kenney_interface_sounds/open_003.wav",
+    "duration": 0.316,
+    "category": "전환",
+    "tags": [
+      "open"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/open_004",
+    "name": "open_004",
+    "file": "sounds/builtin/kenney_interface_sounds/open_004.wav",
+    "duration": 0.325,
+    "category": "전환",
+    "tags": [
+      "open"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/pluck_001",
+    "name": "pluck_001",
+    "file": "sounds/builtin/kenney_interface_sounds/pluck_001.wav",
+    "duration": 0.112,
+    "category": "강조",
+    "tags": [
+      "pluck"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/pluck_002",
+    "name": "pluck_002",
+    "file": "sounds/builtin/kenney_interface_sounds/pluck_002.wav",
+    "duration": 0.181,
+    "category": "강조",
+    "tags": [
+      "pluck"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/question_001",
+    "name": "question_001",
+    "file": "sounds/builtin/kenney_interface_sounds/question_001.wav",
+    "duration": 0.501,
+    "category": "반응",
+    "tags": [
+      "question"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/question_002",
+    "name": "question_002",
+    "file": "sounds/builtin/kenney_interface_sounds/question_002.wav",
+    "duration": 0.338,
+    "category": "반응",
+    "tags": [
+      "question"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/question_003",
+    "name": "question_003",
+    "file": "sounds/builtin/kenney_interface_sounds/question_003.wav",
+    "duration": 0.341,
+    "category": "반응",
+    "tags": [
+      "question"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/question_004",
+    "name": "question_004",
+    "file": "sounds/builtin/kenney_interface_sounds/question_004.wav",
+    "duration": 0.338,
+    "category": "반응",
+    "tags": [
+      "question"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scratch_001",
+    "name": "scratch_001",
+    "file": "sounds/builtin/kenney_interface_sounds/scratch_001.wav",
+    "duration": 0.161,
+    "category": "분위기",
+    "tags": [
+      "scratch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scratch_002",
+    "name": "scratch_002",
+    "file": "sounds/builtin/kenney_interface_sounds/scratch_002.wav",
+    "duration": 0.161,
+    "category": "분위기",
+    "tags": [
+      "scratch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scratch_003",
+    "name": "scratch_003",
+    "file": "sounds/builtin/kenney_interface_sounds/scratch_003.wav",
+    "duration": 0.125,
+    "category": "분위기",
+    "tags": [
+      "scratch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scratch_004",
+    "name": "scratch_004",
+    "file": "sounds/builtin/kenney_interface_sounds/scratch_004.wav",
+    "duration": 0.347,
+    "category": "분위기",
+    "tags": [
+      "scratch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scratch_005",
+    "name": "scratch_005",
+    "file": "sounds/builtin/kenney_interface_sounds/scratch_005.wav",
+    "duration": 0.344,
+    "category": "분위기",
+    "tags": [
+      "scratch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scroll_001",
+    "name": "scroll_001",
+    "file": "sounds/builtin/kenney_interface_sounds/scroll_001.wav",
+    "duration": 1.02,
+    "category": "UI",
+    "tags": [
+      "scroll"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scroll_002",
+    "name": "scroll_002",
+    "file": "sounds/builtin/kenney_interface_sounds/scroll_002.wav",
+    "duration": 1.012,
+    "category": "UI",
+    "tags": [
+      "scroll"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scroll_003",
+    "name": "scroll_003",
+    "file": "sounds/builtin/kenney_interface_sounds/scroll_003.wav",
+    "duration": 1.012,
+    "category": "UI",
+    "tags": [
+      "scroll"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scroll_004",
+    "name": "scroll_004",
+    "file": "sounds/builtin/kenney_interface_sounds/scroll_004.wav",
+    "duration": 1.001,
+    "category": "UI",
+    "tags": [
+      "scroll"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/scroll_005",
+    "name": "scroll_005",
+    "file": "sounds/builtin/kenney_interface_sounds/scroll_005.wav",
+    "duration": 1.023,
+    "category": "UI",
+    "tags": [
+      "scroll"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_001",
+    "name": "select_001",
+    "file": "sounds/builtin/kenney_interface_sounds/select_001.wav",
+    "duration": 0.062,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_002",
+    "name": "select_002",
+    "file": "sounds/builtin/kenney_interface_sounds/select_002.wav",
+    "duration": 0.062,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_003",
+    "name": "select_003",
+    "file": "sounds/builtin/kenney_interface_sounds/select_003.wav",
+    "duration": 0.385,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_004",
+    "name": "select_004",
+    "file": "sounds/builtin/kenney_interface_sounds/select_004.wav",
+    "duration": 0.385,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_005",
+    "name": "select_005",
+    "file": "sounds/builtin/kenney_interface_sounds/select_005.wav",
+    "duration": 0.385,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_006",
+    "name": "select_006",
+    "file": "sounds/builtin/kenney_interface_sounds/select_006.wav",
+    "duration": 1.949,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_007",
+    "name": "select_007",
+    "file": "sounds/builtin/kenney_interface_sounds/select_007.wav",
+    "duration": 0.06,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/select_008",
+    "name": "select_008",
+    "file": "sounds/builtin/kenney_interface_sounds/select_008.wav",
+    "duration": 0.06,
+    "category": "UI",
+    "tags": [
+      "select"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_001",
+    "name": "switch_001",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_001.wav",
+    "duration": 0.62,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_002",
+    "name": "switch_002",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_002.wav",
+    "duration": 0.62,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_003",
+    "name": "switch_003",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_003.wav",
+    "duration": 0.504,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_004",
+    "name": "switch_004",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_004.wav",
+    "duration": 0.504,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_005",
+    "name": "switch_005",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_005.wav",
+    "duration": 0.62,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_006",
+    "name": "switch_006",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_006.wav",
+    "duration": 0.62,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/switch_007",
+    "name": "switch_007",
+    "file": "sounds/builtin/kenney_interface_sounds/switch_007.wav",
+    "duration": 0.62,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/tick_001",
+    "name": "tick_001",
+    "file": "sounds/builtin/kenney_interface_sounds/tick_001.wav",
+    "duration": 0.045,
+    "category": "UI",
+    "tags": [
+      "tick"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/tick_002",
+    "name": "tick_002",
+    "file": "sounds/builtin/kenney_interface_sounds/tick_002.wav",
+    "duration": 0.023,
+    "category": "UI",
+    "tags": [
+      "tick"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/tick_004",
+    "name": "tick_004",
+    "file": "sounds/builtin/kenney_interface_sounds/tick_004.wav",
+    "duration": 0.055,
+    "category": "UI",
+    "tags": [
+      "tick"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/toggle_001",
+    "name": "toggle_001",
+    "file": "sounds/builtin/kenney_interface_sounds/toggle_001.wav",
+    "duration": 0.158,
+    "category": "UI",
+    "tags": [
+      "toggle"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/toggle_002",
+    "name": "toggle_002",
+    "file": "sounds/builtin/kenney_interface_sounds/toggle_002.wav",
+    "duration": 0.141,
+    "category": "UI",
+    "tags": [
+      "toggle"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/toggle_003",
+    "name": "toggle_003",
+    "file": "sounds/builtin/kenney_interface_sounds/toggle_003.wav",
+    "duration": 0.161,
+    "category": "UI",
+    "tags": [
+      "toggle"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_interface_sounds/toggle_004",
+    "name": "toggle_004",
+    "file": "sounds/builtin/kenney_interface_sounds/toggle_004.wav",
+    "duration": 0.074,
+    "category": "UI",
+    "tags": [
+      "toggle"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/interface-sounds",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_interface_sounds/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/click1",
+    "name": "click1",
+    "file": "sounds/builtin/kenney_ui_audio/click1.wav",
+    "duration": 0.103,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/click2",
+    "name": "click2",
+    "file": "sounds/builtin/kenney_ui_audio/click2.wav",
+    "duration": 0.057,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/click3",
+    "name": "click3",
+    "file": "sounds/builtin/kenney_ui_audio/click3.wav",
+    "duration": 0.089,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/click4",
+    "name": "click4",
+    "file": "sounds/builtin/kenney_ui_audio/click4.wav",
+    "duration": 0.038,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/click5",
+    "name": "click5",
+    "file": "sounds/builtin/kenney_ui_audio/click5.wav",
+    "duration": 0.035,
+    "category": "UI",
+    "tags": [
+      "click"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/mouseclick1",
+    "name": "mouseclick1",
+    "file": "sounds/builtin/kenney_ui_audio/mouseclick1.wav",
+    "duration": 0.077,
+    "category": "UI",
+    "tags": [
+      "mouseclick"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/mouserelease1",
+    "name": "mouserelease1",
+    "file": "sounds/builtin/kenney_ui_audio/mouserelease1.wav",
+    "duration": 0.086,
+    "category": "UI",
+    "tags": [
+      "mouserelease"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/rollover1",
+    "name": "rollover1",
+    "file": "sounds/builtin/kenney_ui_audio/rollover1.wav",
+    "duration": 0.237,
+    "category": "UI",
+    "tags": [
+      "rollover"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/rollover2",
+    "name": "rollover2",
+    "file": "sounds/builtin/kenney_ui_audio/rollover2.wav",
+    "duration": 0.062,
+    "category": "UI",
+    "tags": [
+      "rollover"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/rollover3",
+    "name": "rollover3",
+    "file": "sounds/builtin/kenney_ui_audio/rollover3.wav",
+    "duration": 0.086,
+    "category": "UI",
+    "tags": [
+      "rollover"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/rollover4",
+    "name": "rollover4",
+    "file": "sounds/builtin/kenney_ui_audio/rollover4.wav",
+    "duration": 0.123,
+    "category": "UI",
+    "tags": [
+      "rollover"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/rollover5",
+    "name": "rollover5",
+    "file": "sounds/builtin/kenney_ui_audio/rollover5.wav",
+    "duration": 0.129,
+    "category": "UI",
+    "tags": [
+      "rollover"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/rollover6",
+    "name": "rollover6",
+    "file": "sounds/builtin/kenney_ui_audio/rollover6.wav",
+    "duration": 0.176,
+    "category": "UI",
+    "tags": [
+      "rollover"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch1",
+    "name": "switch1",
+    "file": "sounds/builtin/kenney_ui_audio/switch1.wav",
+    "duration": 0.324,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch10",
+    "name": "switch10",
+    "file": "sounds/builtin/kenney_ui_audio/switch10.wav",
+    "duration": 0.387,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch11",
+    "name": "switch11",
+    "file": "sounds/builtin/kenney_ui_audio/switch11.wav",
+    "duration": 0.312,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch12",
+    "name": "switch12",
+    "file": "sounds/builtin/kenney_ui_audio/switch12.wav",
+    "duration": 0.068,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch13",
+    "name": "switch13",
+    "file": "sounds/builtin/kenney_ui_audio/switch13.wav",
+    "duration": 0.045,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch14",
+    "name": "switch14",
+    "file": "sounds/builtin/kenney_ui_audio/switch14.wav",
+    "duration": 0.035,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch15",
+    "name": "switch15",
+    "file": "sounds/builtin/kenney_ui_audio/switch15.wav",
+    "duration": 0.266,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch16",
+    "name": "switch16",
+    "file": "sounds/builtin/kenney_ui_audio/switch16.wav",
+    "duration": 0.376,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch17",
+    "name": "switch17",
+    "file": "sounds/builtin/kenney_ui_audio/switch17.wav",
+    "duration": 0.353,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch18",
+    "name": "switch18",
+    "file": "sounds/builtin/kenney_ui_audio/switch18.wav",
+    "duration": 0.437,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch19",
+    "name": "switch19",
+    "file": "sounds/builtin/kenney_ui_audio/switch19.wav",
+    "duration": 0.393,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch2",
+    "name": "switch2",
+    "file": "sounds/builtin/kenney_ui_audio/switch2.wav",
+    "duration": 0.318,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch20",
+    "name": "switch20",
+    "file": "sounds/builtin/kenney_ui_audio/switch20.wav",
+    "duration": 0.364,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch21",
+    "name": "switch21",
+    "file": "sounds/builtin/kenney_ui_audio/switch21.wav",
+    "duration": 0.419,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch22",
+    "name": "switch22",
+    "file": "sounds/builtin/kenney_ui_audio/switch22.wav",
+    "duration": 0.37,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch23",
+    "name": "switch23",
+    "file": "sounds/builtin/kenney_ui_audio/switch23.wav",
+    "duration": 0.399,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch24",
+    "name": "switch24",
+    "file": "sounds/builtin/kenney_ui_audio/switch24.wav",
+    "duration": 0.283,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch25",
+    "name": "switch25",
+    "file": "sounds/builtin/kenney_ui_audio/switch25.wav",
+    "duration": 0.385,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch26",
+    "name": "switch26",
+    "file": "sounds/builtin/kenney_ui_audio/switch26.wav",
+    "duration": 0.237,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch27",
+    "name": "switch27",
+    "file": "sounds/builtin/kenney_ui_audio/switch27.wav",
+    "duration": 0.295,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch28",
+    "name": "switch28",
+    "file": "sounds/builtin/kenney_ui_audio/switch28.wav",
+    "duration": 0.216,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch29",
+    "name": "switch29",
+    "file": "sounds/builtin/kenney_ui_audio/switch29.wav",
+    "duration": 0.315,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch3",
+    "name": "switch3",
+    "file": "sounds/builtin/kenney_ui_audio/switch3.wav",
+    "duration": 0.367,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch30",
+    "name": "switch30",
+    "file": "sounds/builtin/kenney_ui_audio/switch30.wav",
+    "duration": 0.373,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch31",
+    "name": "switch31",
+    "file": "sounds/builtin/kenney_ui_audio/switch31.wav",
+    "duration": 0.446,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch32",
+    "name": "switch32",
+    "file": "sounds/builtin/kenney_ui_audio/switch32.wav",
+    "duration": 0.448,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch33",
+    "name": "switch33",
+    "file": "sounds/builtin/kenney_ui_audio/switch33.wav",
+    "duration": 0.512,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch34",
+    "name": "switch34",
+    "file": "sounds/builtin/kenney_ui_audio/switch34.wav",
+    "duration": 0.483,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch35",
+    "name": "switch35",
+    "file": "sounds/builtin/kenney_ui_audio/switch35.wav",
+    "duration": 0.344,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch36",
+    "name": "switch36",
+    "file": "sounds/builtin/kenney_ui_audio/switch36.wav",
+    "duration": 0.329,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch37",
+    "name": "switch37",
+    "file": "sounds/builtin/kenney_ui_audio/switch37.wav",
+    "duration": 0.315,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch38",
+    "name": "switch38",
+    "file": "sounds/builtin/kenney_ui_audio/switch38.wav",
+    "duration": 0.425,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch4",
+    "name": "switch4",
+    "file": "sounds/builtin/kenney_ui_audio/switch4.wav",
+    "duration": 0.431,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch5",
+    "name": "switch5",
+    "file": "sounds/builtin/kenney_ui_audio/switch5.wav",
+    "duration": 0.315,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch6",
+    "name": "switch6",
+    "file": "sounds/builtin/kenney_ui_audio/switch6.wav",
+    "duration": 0.364,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch7",
+    "name": "switch7",
+    "file": "sounds/builtin/kenney_ui_audio/switch7.wav",
+    "duration": 0.213,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch8",
+    "name": "switch8",
+    "file": "sounds/builtin/kenney_ui_audio/switch8.wav",
+    "duration": 0.341,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  },
+  {
+    "id": "kenney_ui_audio/switch9",
+    "name": "switch9",
+    "file": "sounds/builtin/kenney_ui_audio/switch9.wav",
+    "duration": 0.263,
+    "category": "UI",
+    "tags": [
+      "switch"
+    ],
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/ui-audio",
+    "license": "CC0-1.0",
+    "licenseFile": "sounds/builtin/kenney_ui_audio/LICENSE.txt"
+  }
+]
