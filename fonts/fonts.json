@@ -1,0 +1,355 @@
+[
+  {
+    "id": "pretendard",
+    "family": "Pretendard",
+    "nameKo": "프리텐다드",
+    "category": "고딕",
+    "variable": true,
+    "files": [
+      "fonts/builtin/pretendard/PretendardVariable.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/pretendard/OFL.txt",
+    "source": "https://github.com/orioncactus/pretendard"
+  },
+  {
+    "id": "notosanskr",
+    "family": "Noto Sans KR",
+    "nameKo": "노토 산스",
+    "category": "고딕",
+    "variable": true,
+    "files": [
+      "fonts/builtin/notosanskr/NotoSansKR[wght].ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/notosanskr/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanskr"
+  },
+  {
+    "id": "notoserifkr",
+    "family": "Noto Serif KR",
+    "nameKo": "노토 세리프",
+    "category": "명조",
+    "variable": true,
+    "files": [
+      "fonts/builtin/notoserifkr/NotoSerifKR[wght].ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/notoserifkr/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr"
+  },
+  {
+    "id": "nanumgothic",
+    "family": "Nanum Gothic",
+    "nameKo": "나눔고딕",
+    "category": "고딕",
+    "variable": false,
+    "files": [
+      "fonts/builtin/nanumgothic/NanumGothic-Bold.ttf",
+      "fonts/builtin/nanumgothic/NanumGothic-ExtraBold.ttf",
+      "fonts/builtin/nanumgothic/NanumGothic-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/nanumgothic/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nanumgothic"
+  },
+  {
+    "id": "nanummyeongjo",
+    "family": "Nanum Myeongjo",
+    "nameKo": "나눔명조",
+    "category": "명조",
+    "variable": false,
+    "files": [
+      "fonts/builtin/nanummyeongjo/NanumMyeongjo-Bold.ttf",
+      "fonts/builtin/nanummyeongjo/NanumMyeongjo-ExtraBold.ttf",
+      "fonts/builtin/nanummyeongjo/NanumMyeongjo-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/nanummyeongjo/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nanummyeongjo"
+  },
+  {
+    "id": "nanumpenscript",
+    "family": "Nanum Pen Script",
+    "nameKo": "나눔손글씨 펜",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/nanumpenscript/NanumPenScript-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/nanumpenscript/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nanumpenscript"
+  },
+  {
+    "id": "nanumbrushscript",
+    "family": "Nanum Brush Script",
+    "nameKo": "나눔손글씨 붓",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/nanumbrushscript/NanumBrushScript-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/nanumbrushscript/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nanumbrushscript"
+  },
+  {
+    "id": "ibmplexsanskr",
+    "family": "IBM Plex Sans KR",
+    "nameKo": "IBM 플렉스 산스",
+    "category": "고딕",
+    "variable": false,
+    "files": [
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-Bold.ttf",
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-ExtraLight.ttf",
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-Light.ttf",
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-Medium.ttf",
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-Regular.ttf",
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-SemiBold.ttf",
+      "fonts/builtin/ibmplexsanskr/IBMPlexSansKR-Thin.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/ibmplexsanskr/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/ibmplexsanskr"
+  },
+  {
+    "id": "gowundodum",
+    "family": "Gowun Dodum",
+    "nameKo": "고운돋움",
+    "category": "고딕",
+    "variable": false,
+    "files": [
+      "fonts/builtin/gowundodum/GowunDodum-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/gowundodum/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/gowundodum"
+  },
+  {
+    "id": "gowunbatang",
+    "family": "Gowun Batang",
+    "nameKo": "고운바탕",
+    "category": "명조",
+    "variable": false,
+    "files": [
+      "fonts/builtin/gowunbatang/GowunBatang-Bold.ttf",
+      "fonts/builtin/gowunbatang/GowunBatang-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/gowunbatang/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/gowunbatang"
+  },
+  {
+    "id": "hahmlet",
+    "family": "Hahmlet",
+    "nameKo": "함렛",
+    "category": "명조",
+    "variable": true,
+    "files": [
+      "fonts/builtin/hahmlet/Hahmlet[wght].ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/hahmlet/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/hahmlet"
+  },
+  {
+    "id": "songmyung",
+    "family": "Song Myung",
+    "nameKo": "송명",
+    "category": "명조",
+    "variable": false,
+    "files": [
+      "fonts/builtin/songmyung/SongMyung-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/songmyung/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/songmyung"
+  },
+  {
+    "id": "orbit",
+    "family": "Orbit",
+    "nameKo": "오르빗",
+    "category": "고딕",
+    "variable": false,
+    "files": [
+      "fonts/builtin/orbit/Orbit-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/orbit/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/orbit"
+  },
+  {
+    "id": "sunflower",
+    "family": "Sunflower",
+    "nameKo": "해바라기",
+    "category": "고딕",
+    "variable": false,
+    "files": [
+      "fonts/builtin/sunflower/Sunflower-Bold.ttf",
+      "fonts/builtin/sunflower/Sunflower-Light.ttf",
+      "fonts/builtin/sunflower/Sunflower-Medium.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/sunflower/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/sunflower"
+  },
+  {
+    "id": "blackhansans",
+    "family": "Black Han Sans",
+    "nameKo": "검은고딕",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/blackhansans/BlackHanSans-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/blackhansans/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/blackhansans"
+  },
+  {
+    "id": "dohyeon",
+    "family": "Do Hyeon",
+    "nameKo": "도현",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/dohyeon/DoHyeon-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/dohyeon/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/dohyeon"
+  },
+  {
+    "id": "jua",
+    "family": "Jua",
+    "nameKo": "주아",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/jua/Jua-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/jua/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/jua"
+  },
+  {
+    "id": "yeonsung",
+    "family": "Yeon Sung",
+    "nameKo": "연성",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/yeonsung/YeonSung-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/yeonsung/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/yeonsung"
+  },
+  {
+    "id": "gugi",
+    "family": "Gugi",
+    "nameKo": "구기",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/gugi/Gugi-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/gugi/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/gugi"
+  },
+  {
+    "id": "bagelfatone",
+    "family": "Bagel Fat One",
+    "nameKo": "베이글팻원",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/bagelfatone/BagelFatOne-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/bagelfatone/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/bagelfatone"
+  },
+  {
+    "id": "gasoekone",
+    "family": "Gasoek One",
+    "nameKo": "가석원",
+    "category": "제목",
+    "variable": false,
+    "files": [
+      "fonts/builtin/gasoekone/GasoekOne-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/gasoekone/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/gasoekone"
+  },
+  {
+    "id": "gaegu",
+    "family": "Gaegu",
+    "nameKo": "개구",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/gaegu/Gaegu-Bold.ttf",
+      "fonts/builtin/gaegu/Gaegu-Light.ttf",
+      "fonts/builtin/gaegu/Gaegu-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/gaegu/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/gaegu"
+  },
+  {
+    "id": "gamjaflower",
+    "family": "Gamja Flower",
+    "nameKo": "감자꽃",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/gamjaflower/GamjaFlower-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/gamjaflower/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/gamjaflower"
+  },
+  {
+    "id": "himelody",
+    "family": "Hi Melody",
+    "nameKo": "하이멜로디",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/himelody/HiMelody-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/himelody/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/himelody"
+  },
+  {
+    "id": "poorstory",
+    "family": "Poor Story",
+    "nameKo": "푸어스토리",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/poorstory/PoorStory-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/poorstory/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/poorstory"
+  },
+  {
+    "id": "singleday",
+    "family": "Single Day",
+    "nameKo": "싱글데이",
+    "category": "손글씨",
+    "variable": false,
+    "files": [
+      "fonts/builtin/singleday/SingleDay-Regular.ttf"
+    ],
+    "license": "OFL-1.1",
+    "licenseFile": "fonts/builtin/singleday/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/singleday"
+  }
+]
